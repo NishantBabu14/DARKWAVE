@@ -1,48 +1,86 @@
-# 🌊 DARKWAVE Roadmap
+🌊 DARKWAVE ROADMAP
 
-## Version 1.0 (Foundation)
-
-### Core Features
-- User Authentication
-- AI Chat Interface
-- Chat History
-- Session Management
-- Responsive Design
-- Multi-language Support
-
-### Goal
-Launch a stable AI chatbot platform.
+«"Building the Next Wave of Intelligent Technology."»
 
 ---
 
-## Version 2.0 (Research Platform)
+🚀 PHASE 1 — FOUNDATION (v1.0)
 
-### Features
-- Web Search Integration
-- Source Citations
-- Research Mode
-- Improved AI Responses
+🎯 Mission
 
-### Goal
-Transform DARKWAVE into an AI Assistant & Research Platform.
+Create a powerful and reliable AI chatbot experience.
 
----
+✅ Core Features
 
-## Version 3.0 (Advanced Intelligence)
+- 🔐 User Authentication
+- 💬 AI Chat Interface
+- 📜 Chat History
+- 🧠 Session Management
+- 📱 Responsive Design
+- 🌍 Multi-language Support
 
-### Features
-- Voice Interaction
-- Document Analysis
-- Long-Term Memory
-- Advanced Personalization
+🏆 Goal
 
-### Goal
-Provide a more powerful and intelligent AI experience.
+Launch the first public version of DARKWAVE.
 
 ---
 
-## Long-Term Vision
+🔍 PHASE 2 — RESEARCH ENGINE (v2.0)
 
-DARKWAVE aims to become an intelligent platform that combines conversation, research, and productivity into a single AI-powered ecosystem.
+🎯 Mission
 
-Status: 🚧 Under Active Development
+Transform DARKWAVE from a chatbot into a research companion.
+
+⚡ Features
+
+- 🌐 Real-Time Web Search
+- 📚 Source Citations
+- 🔎 Research Mode
+- 🎯 Smarter Responses
+- 📖 Knowledge Exploration
+
+🏆 Goal
+
+Become an AI Assistant & Research Platform.
+
+---
+
+🧠 PHASE 3 — ADVANCED INTELLIGENCE (v3.0)
+
+🎯 Mission
+
+Deliver a next-generation AI experience.
+
+⚡ Features
+
+- 🎙️ Voice Conversations
+- 📄 PDF & Document Analysis
+- 🧠 Long-Term Memory
+- 🎨 Personalized Experience
+- 🤖 Advanced AI Capabilities
+
+🏆 Goal
+
+Create a truly intelligent digital companion.
+
+---
+
+🌌 LONG-TERM VISION
+
+DARKWAVE aims to combine:
+
+💬 Conversation
+🔍 Research
+📚 Knowledge
+⚡ Productivity
+🧠 Intelligence
+
+into a single AI-powered ecosystem.
+
+---
+
+🌊 DARKWAVE
+
+Intelligence Beyond Boundaries
+
+🚧 Status: Under Active Development
