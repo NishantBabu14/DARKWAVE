@@ -1,14 +1,19 @@
-# DARKWAVE
+# 🌊 DARKWAVE
 
-AI Assistant & Research Platform
+## AI Assistant & Research Platform
 
-## Vision
-DARKWAVE is being built to provide intelligent conversations, research assistance, and future AI-powered tools in a single platform.
+DARKWAVE is an AI-powered assistant and research platform designed to deliver intelligent conversations, knowledge discovery, and future-ready AI experiences.
 
-## Current Status
-🚧 Under Active Development
+---
 
-## Planned Features
+## 🚀 Current Status
+
+Under Active Development
+
+---
+
+## ✨ Planned Features
+
 - AI Chat
 - Chat History
 - User Authentication
@@ -17,22 +22,34 @@ DARKWAVE is being built to provide intelligent conversations, research assistanc
 - Research Mode
 - Search & Citations
 
-## Roadmap
+---
 
-### v1.0
-- Chat Platform
-- Authentication
-- History
+## 🛣️ Roadmap
 
-### v2.0
+### Version 1.0
+- Authentication System
+- AI Chat Interface
+- Chat History
+- Responsive Design
+
+### Version 2.0
 - Search Mode
-- Citations
+- Source Citations
 - Research Assistant
 
-### v3.0
+### Version 3.0
 - Advanced AI Features
+- Voice Integration
+- Extended Capabilities
 
-## Author
-Nishant Babu
+---
 
-DARKWAVE — Intelligence Beyond Boundaries
+## 👨‍💻 Author
+
+**Nishant Babu**
+
+---
+
+## 🌊 DARKWAVE
+
+**Intelligence Beyond Boundaries**
