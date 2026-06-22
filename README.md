@@ -53,3 +53,26 @@ Under Active Development
 ## 🌊 DARKWAVE
 
 **Intelligence Beyond Boundaries**
+
+## Tech Stack
+
+- Python
+- Flask
+- HTML
+- CSS
+- JavaScript
+- SQLite
+
+## Development Status
+
+Current Phase: Foundation & Testing
+
+## Goals
+
+- Build an AI Assistant
+- Enable Research Mode
+- Create an Intelligent User Experience
+
+## Connect
+
+GitHub: NishantBabu14
