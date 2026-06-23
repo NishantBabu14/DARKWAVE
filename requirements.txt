@@ -1,0 +1,8 @@
+Flask
+Flask-SQLAlchemy
+Flask-Limiter
+python-dotenv
+openai
+Werkzeug
+
+📦 Add project dependencies
