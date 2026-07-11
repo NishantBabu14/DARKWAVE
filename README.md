@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="darkwave-banner.png" alt="DARKWAVE Banner" width="100%">
+</p>
+
 🌊 DARKWAVE
 
 🚀 AI Assistant • Research Platform • Future Intelligence
