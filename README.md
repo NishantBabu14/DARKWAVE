@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="file_00000000b6f87209a05e7d471b5c5c96.png." width="100%" alt="DARKWAVE Banner">
-</p>
+
 
 🌊 DARKWAVE
 
